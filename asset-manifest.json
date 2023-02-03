@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taufolio/static/css/main.b2eada42.chunk.css",
-    "main.js": "/taufolio/static/js/main.abee3edd.chunk.js",
-    "main.js.map": "/taufolio/static/js/main.abee3edd.chunk.js.map",
+    "main.js": "/taufolio/static/js/main.6f96bcef.chunk.js",
+    "main.js.map": "/taufolio/static/js/main.6f96bcef.chunk.js.map",
     "runtime-main.js": "/taufolio/static/js/runtime-main.c77fb388.js",
     "runtime-main.js.map": "/taufolio/static/js/runtime-main.c77fb388.js.map",
     "static/js/2.0afa49f6.chunk.js": "/taufolio/static/js/2.0afa49f6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c77fb388.js",
     "static/js/2.0afa49f6.chunk.js",
     "static/css/main.b2eada42.chunk.css",
-    "static/js/main.abee3edd.chunk.js"
+    "static/js/main.6f96bcef.chunk.js"
   ]
 }
