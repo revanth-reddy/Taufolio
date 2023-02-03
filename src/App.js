@@ -43,7 +43,7 @@ const App = () => {
     // </div>
     <div id='top' className={`${themeName} app`}>
       <Header />
-      <BrowserRouter basename="/taufolio">
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
