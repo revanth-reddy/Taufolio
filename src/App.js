@@ -43,11 +43,11 @@ const App = () => {
     // </div>
     <div id='top' className={`${themeName} app`}>
       <Header />
-      <BrowserRouter>
+      <BrowserRouter basename="/taufolio">
         <Routes>
-          <Route path="/taufolio/" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/taufolio/upload" element={<Upload />} />
+          <Route path="/upload" element={<Upload />} />
         </Routes>
       </BrowserRouter>
       {/* <ScrollToTop /> */}
