@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taufolio/static/css/main.b2eada42.chunk.css",
+    "main.js": "/taufolio/static/js/main.c796cf02.chunk.js",
+    "main.js.map": "/taufolio/static/js/main.c796cf02.chunk.js.map",
+    "runtime-main.js": "/taufolio/static/js/runtime-main.c77fb388.js",
+    "runtime-main.js.map": "/taufolio/static/js/runtime-main.c77fb388.js.map",
+    "static/js/2.0afa49f6.chunk.js": "/taufolio/static/js/2.0afa49f6.chunk.js",
+    "static/js/2.0afa49f6.chunk.js.map": "/taufolio/static/js/2.0afa49f6.chunk.js.map",
+    "index.html": "/taufolio/index.html",
+    "static/css/main.b2eada42.chunk.css.map": "/taufolio/static/css/main.b2eada42.chunk.css.map",
+    "static/js/2.0afa49f6.chunk.js.LICENSE.txt": "/taufolio/static/js/2.0afa49f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c77fb388.js",
+    "static/js/2.0afa49f6.chunk.js",
+    "static/css/main.b2eada42.chunk.css",
+    "static/js/main.c796cf02.chunk.js"
+  ]
+}
