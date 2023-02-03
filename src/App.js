@@ -45,9 +45,9 @@ const App = () => {
       <Header />
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/taufolio/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/upload" element={<Upload />} />
+          <Route path="/taufolio/upload" element={<Upload />} />
         </Routes>
       </BrowserRouter>
       {/* <ScrollToTop /> */}
